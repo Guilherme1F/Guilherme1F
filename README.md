@@ -1,0 +1,3 @@
+- 👋 Oi eu sou Guilherme
+- 👀 Eu estou interessado em projetos
+- 🌱 Eu Estou Aprendendo Com o Alura
